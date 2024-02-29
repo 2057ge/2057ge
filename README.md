@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2057ge
 - 👀 I’m interested in making software.
-- 🌱 I’m currently learning vue+react+node.js
+- 🌱 I’m currently learning vue+node.js
 - 💞️ I’m looking to collaborate on a good company
 - 📫 How to reach me ...
 
